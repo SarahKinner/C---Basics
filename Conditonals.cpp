@@ -13,8 +13,8 @@ cin >> x;
 y = x % 2;
 
 //If then statement to print depending if it's even or odd
-if () {
-
+if (y = 0) {
+std::cout << "The number you inputted is a even number." << std::endl;
 } else {
-
+std::cout << "The number you inputted is a odd number." << std::endl;
 }
