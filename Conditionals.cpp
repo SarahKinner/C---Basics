@@ -1,4 +1,9 @@
 //Even or odd program
+
+//Helps to input and output functions and makes it easier to code
+#include <iostream>
+using namespace std;
+
 //Variables that are being stored
 int x;
 int y;
