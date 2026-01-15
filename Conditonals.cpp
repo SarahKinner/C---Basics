@@ -13,3 +13,8 @@ cin >> x;
 y = x % 2;
 
 //If then statement to print depending if it's even or odd
+if () {
+
+} else {
+
+}
