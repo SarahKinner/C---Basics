@@ -1,5 +1,7 @@
 //Even or odd program
+//Variables that are being stored
 int x;
+int y;
 
 //Asks the user to enter in a number
 cout << "Please enter a number";
@@ -8,5 +10,6 @@ cout << "Please enter a number";
 cin >> x;
 
 //Calculation to figure if the number inputted is even or odd
+y = x % 2;
 
 //If then statement to print depending if it's even or odd
