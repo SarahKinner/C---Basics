@@ -1,4 +1,6 @@
 //Square of a number
+#include <iostream>
+using namespace std;
 
 //Make function here where it'll take the input and figures out what the square of the input is
 int squareNumber(int x){
@@ -6,9 +8,15 @@ int squareNumber(int x){
     return result;
 }
 
-//Ask user for number
+int main() {
+    //Variables needed
+    int x;
 
-//User inputs a number
+    //Ask user for number
+    cout << "Please enter a number: ";
+
+    //User inputs a number
+    cin >> x;
 
 //Call the function
 
