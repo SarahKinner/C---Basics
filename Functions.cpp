@@ -18,6 +18,7 @@ int main() {
     //User inputs a number
     cin >> x;
 
-//Call the function
+    //Call the function
+    squareNumber();
 
 //Print the result
