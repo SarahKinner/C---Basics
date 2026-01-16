@@ -2,7 +2,7 @@
 
 //Make function here where it'll take the input and figures out what the square of the input is
 int squareNumber(int x){
-    calculate result = x * x;
+    int result = x * x;
     return result;
 }
 
