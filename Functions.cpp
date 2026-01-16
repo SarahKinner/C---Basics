@@ -18,10 +18,7 @@ int main() {
     //User inputs a number
     cin >> x;
 
-    //Call the function
-    squareNumber(x);
-
-    //Print the result
+    //Calls function and prints the result
     cout << squareNumber(x);
 
     //This will end the program
