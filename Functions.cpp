@@ -19,6 +19,11 @@ int main() {
     cin >> x;
 
     //Call the function
-    squareNumber();
+    squareNumber(x);
 
-//Print the result
+    //Print the result
+    cout << squareNumber(x);
+
+    //This will end the program
+    return 0;
+}
