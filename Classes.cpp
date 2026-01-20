@@ -46,6 +46,9 @@ int main() {
     //User inputs a height
     cin >> h;
 
+    //Create the rectangle object
+    Rectangle myRectangle;
+
 //Call function
 
 //Print the results
