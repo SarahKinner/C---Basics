@@ -1,4 +1,6 @@
 //Rectangle Class program
+#include <iostream>
+using namespace std;
 
 //Create the rectangle class
 
