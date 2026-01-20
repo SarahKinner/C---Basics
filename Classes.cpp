@@ -23,6 +23,9 @@ void Rectangle::setDimensions(int w, int h){
 }
 
 //Add area function
+int Rectangle::area(){
+    return width * height;
+}
 
 //Main starts here
 int main() {
