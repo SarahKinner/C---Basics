@@ -49,7 +49,10 @@ int main() {
     //Create the rectangle object
     Rectangle myRectangle;
 
-//Call function
+    //Call the setDimensions function
+    myRectangle.setDimensions(w, h);
+
+    //Call the area function
 
 //Print the results
 
