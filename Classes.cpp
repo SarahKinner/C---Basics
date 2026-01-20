@@ -33,6 +33,7 @@ int main() {
     cout << "Please enter the height of the rectangle: ";
 
     //User inputs a height
+    cin >> h;
 
 //Call function
 
