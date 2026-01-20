@@ -11,7 +11,10 @@ class Rectangle {
         int height;
 
 //Add public section
-
+    public:
+        void setDimensions(int w, int h);
+        int area();
+};
 
 //Main starts here
 
