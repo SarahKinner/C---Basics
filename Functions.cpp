@@ -19,7 +19,7 @@ int main() {
     cin >> x;
 
     //Calls function and prints the result
-    cout << squareNumber(x);
+    cout << squareNumber(x) << endl;
 
     //This will end the program
     return 0;
