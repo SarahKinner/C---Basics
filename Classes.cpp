@@ -16,6 +16,12 @@ class Rectangle {
         int area();
 };
 
+//Create the setDimensions function
+void Rectangle::setDimensions(int w, int h){
+    width = w;
+    height = h;
+}
+
 //Main starts here
 int main() {
 
