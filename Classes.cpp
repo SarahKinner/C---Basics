@@ -53,6 +53,7 @@ int main() {
     myRectangle.setDimensions(w, h);
 
     //Call the area function
+    int result = myRectangle.area();
 
 //Print the results
 
