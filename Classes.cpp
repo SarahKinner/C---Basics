@@ -17,16 +17,19 @@ class Rectangle {
 };
 
 //Main starts here
+int main() {
 
-//Add the variables needed for the program
+    //Add the variables needed for the program
+    int w;
+    int h;
 
-//Ask user for width
+    //Ask user for width
 
-//User inputs a width
+    //User inputs a width
 
-//Ask user for height
+    //Ask user for height
 
-//User inputs a height
+    //User inputs a height
 
 //Call function
 
