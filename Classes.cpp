@@ -24,12 +24,13 @@ int main() {
     int h;
 
     //Ask user for width
-    cout << "Please enter the width for the rectangle: ";
+    cout << "Please enter the width of the rectangle: ";
 
     //User inputs a width
     cin >> w;
 
     //Ask user for height
+    cout << "Please enter the height of the rectangle: ";
 
     //User inputs a height
 
