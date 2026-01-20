@@ -55,6 +55,7 @@ int main() {
     //Call the area function
     int result = myRectangle.area();
 
-//Print the results
-
+    //Print the results
+    cout << "The area of the rectangle is " << result << endl;
+    
 //This will end the program
