@@ -57,5 +57,7 @@ int main() {
 
     //Print the results
     cout << "The area of the rectangle is " << result << endl;
-    
-//This will end the program
+
+    //This will end the program
+    return 0;
+}
