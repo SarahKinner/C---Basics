@@ -22,6 +22,8 @@ void Rectangle::setDimensions(int w, int h){
     height = h;
 }
 
+//Add area function
+
 //Main starts here
 int main() {
 
