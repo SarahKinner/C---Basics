@@ -3,10 +3,15 @@
 using namespace std;
 
 //Create the rectangle class
+class Rectangle {
 
 //Add private section
+    private:
+        int width;
+        int height;
 
 //Add public section
+
 
 //Main starts here
 
