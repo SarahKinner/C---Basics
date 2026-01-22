@@ -14,9 +14,10 @@ int main() {
     int x;
 
     //Ask user how many numbers they are going to input
+    cout << "How many numbers would you like to enter? ";
 
     //User inputs the number of numbers thy are going to add to the vector
-
+     cin >> x;
 
 //Put the input loop here
 
