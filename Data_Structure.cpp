@@ -5,6 +5,8 @@
 using namespace std;
 
 //Main starts here
+int main() {
+    vector<int> numbers;
 
 //Vector gets created
 
