@@ -6,9 +6,15 @@ using namespace std;
 
 //Main starts here
 int main() {
+    //Vector gets created
     vector<int> numbers;
 
-//Vector gets created
+    //Variables needed
+    int num;
+    int x;
+
+    ////Ask user how many numbers they are going to input
+
 
 //Put the input loop here
 
