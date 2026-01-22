@@ -19,7 +19,15 @@ int main() {
     //User inputs the number of numbers thy are going to add to the vector
      cin >> x;
 
-//Put the input loop here
+    //Put the input loop here
+    for (int i = 0; i < x; i++){
+        //Ask the user to enter a number
+
+        //Read the number inputted into num
+
+        //Add num to vector
+
+    }
 
 //Sort out the vector
 
