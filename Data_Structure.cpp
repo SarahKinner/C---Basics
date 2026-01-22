@@ -1,10 +1,8 @@
 //Number sorter program
 #include <iostream>
-vector<int> numbers;
-
+#include <vector>
+#include <algorithm>
 using namespace std;
-
-
 
 //Main starts here
 
