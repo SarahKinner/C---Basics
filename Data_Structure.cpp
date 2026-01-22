@@ -22,11 +22,13 @@ int main() {
     //Put the input loop here
     for (int i = 0; i < x; i++){
         //Ask the user to enter a number
+        cout << "Please enter a number: ";
 
         //Read the number inputted into num
+        cin >> num;
 
         //Add num to vector
-
+        numbers.push_back(num);
     }
 
 //Sort out the vector
