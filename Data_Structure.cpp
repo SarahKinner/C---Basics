@@ -13,7 +13,9 @@ int main() {
     int num;
     int x;
 
-    ////Ask user how many numbers they are going to input
+    //Ask user how many numbers they are going to input
+
+    //User inputs the number of numbers thy are going to add to the vector
 
 
 //Put the input loop here
