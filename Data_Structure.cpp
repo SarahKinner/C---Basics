@@ -34,6 +34,10 @@ int main() {
     //Sort out the vector
      sort(numbers.begin(), numbers.end());
 
-//Output the loop
+    //Output the loop
+    for(int i = 0; i < numbers.size(); i++){
+        cout << numbers[i] << " ";
+    }
+
 
 //This will end the program
