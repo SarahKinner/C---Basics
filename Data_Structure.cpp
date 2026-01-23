@@ -31,7 +31,8 @@ int main() {
         numbers.push_back(num);
     }
 
-//Sort out the vector
+    //Sort out the vector
+     sort(v.begin(), v.end());
 
 //Output the loop
 
