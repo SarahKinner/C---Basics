@@ -39,5 +39,6 @@ int main() {
         cout << numbers[i] << " ";
     }
 
-
-//This will end the program
+    //This will end the program
+    return 0;
+}
