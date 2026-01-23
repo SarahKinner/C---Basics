@@ -32,7 +32,7 @@ int main() {
     }
 
     //Sort out the vector
-     sort(v.begin(), v.end());
+     sort(numbers.begin(), numbers.end());
 
 //Output the loop
 
