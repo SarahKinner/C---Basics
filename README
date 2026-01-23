@@ -1,14 +1,15 @@
-# Project Title (Update)
-
-Add a description of your project here.
+# C++ Basics
+Ok so I made 5 programs which they are named on what I want to focused on which are Loops, Functions, Conditional, Classes, and Data Structure. There is Hello World but that's just a small practice round to understand how I'm going to code and how I'm going to run the programs.
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. So to even use C++ download C/C++ from microsoft in the extensions tab in Visual Studio Code
+2. Make sure that you navigate to the folder where the program you want to run is in
+3. To run a program you need to compile to turn the code executable which to do put in terminal: g++ filename.cpp -o filename
+4. After it's compiled and if done correctly you should see that a new file was added
+5. When it's compiled run the program in terminal to see if it works which you put this in terminal: ./filename
 
 Instructions for using the software:
 
