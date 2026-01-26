@@ -1,6 +1,16 @@
 # C++ Basics
 Ok so I made 5 programs which they are named on what I want to focused on which are Loops, Functions, Conditional, Classes, and Data Structure. There is Hello World but that's just a small practice round to understand how I'm going to code and how I'm going to run the programs.
 
+Loops: The program will ask the user to enter a number and then it will go to a for loop where the program will count and print starting at 1 until it reaches the number that the user inputted.
+
+Functions: The program will ask the user to enter a number and then it will call the function and then print the square root of the number that was inputted into the program.
+
+Conditionals: The program will ask the user to enter a number and then it will do a simple equation to figure out if it's even or odd after the equation is done it'll go into a if then statement. If the remainder is 0/number inputted is even then the program will print out it is even otherwise if the remainder is 1/number inputted is odd then the program will print out it is odd.
+
+Classes: The program will ask the user to enter a number for the height and width and then it will create an object from the rectangle class which will then call the function which will then print out the area of the rectangle.
+
+Data_Structure: The program will ask the to enter the amount of numbers that they want to input and after that the user will begin to input the random numbers they want untill the first for loop reaches the number that user says they'll input while that is happening numbers that the user inputted will be pushed into the vector. After all numbers are inputted numbers will be sorted in the vector and then the program will print out the list of numbers that the user inputted from smallest to largest.
+
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
@@ -11,19 +21,20 @@ Steps to build and/or run the software:
 4. After it's compiled and if done correctly you should see that a new file was added
 5. When it's compiled run the program in terminal to see if it works which you put this in terminal: ./filename
 
-Instructions for using the software:
+Instructions for using the software(I'm assuming to run the programs I made here):
 
-1. First step here
-2.
-3.
+1. Run the program as I menitoned above how to do so
+2. Enter a number when the program tells you to.
+3. Then wait for your result to come out in less than a second.
 
 ## Development Environment
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
-*
-*
+* You need to use a Mac since it's a bit different with how the compiler and terminal works compared to other software
+* Visual Studio Code
+* C/C++ extension from Microsoft which you can get from the extensions tab in Visual Studio Code
+
 
 ## Useful Websites to Learn More
 
@@ -39,6 +50,7 @@ I found these websites useful in developing this software:
 * [C++ classes and Objects] (https://www.w3schools.com/cpp/cpp_classes.asp)
 * [Appending a vector to a vector [duplicate]] (https://stackoverflow.com/questions/2551775/appending-a-vector-to-a-vector)
 * [Sorting a Vector in C++] (https://www.geeksforgeeks.org/cpp/sorting-a-vector-in-c/)
+* [Iterate through a C++ Vector using a 'for' loop] (https://stackoverflow.com/questions/12702561/iterate-through-a-c-vector-using-a-for-loop)
 
 ## Future Work
 
