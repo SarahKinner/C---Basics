@@ -56,6 +56,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
+* [ ] Definitely a way to make the program to run continue still if the user puts something besides a positive integer such as a letter, word, or negative integer. I probably overcome this issue by making the program run a check and if it comes out false the program will them to write a positive integer this time.
 * [ ]
 * [ ]
